@@ -18,8 +18,8 @@ The XML Config Comparison Tool is a graphical user interface (GUI) application d
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/zaricj/XMLConfigComparison
-cd XMLConfigComparison
+git clone https://github.com/zaricj/XMLConfigComparison.git
+
 ```
 
 #### Install dependencies:
